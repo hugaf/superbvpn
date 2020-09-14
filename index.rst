@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Repository Digital Marketing Indonesia | by Karinov.co.id
+Repository Hugaf Indonesia | by Hugaf.com
 ==================================================
 
 Contents:
@@ -23,87 +23,30 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+Hugaf Solusi Digital Indonesia 
 ==================
-- `jasa digital marketing indonesia <https://karinov.co.id/>`_
-- `navigasi pariwisata indonesia <https://www.navi.id>`_
-- `skema box speaker dan review audio terbaru <https://www.fedora.or.id>`_ 
-- `kumpulan tautan berita terbaru indonesia <https://blogs.itb.ac.id/feeds>`_ 
-- `direktori service center indonesia <https://www.autobild.co.id>`_ 
+- `jasa pembuatan aplikasi android, iOS dan Website <https://hugaf.com/>`_
+- `sibi <https://www.sibi.or.id>`_
 
-Mengenal E-A-T Algoritma SEO Mutakhir dari Google
+Analisis: Mengapa pembaruan inti Google Mei 2020 adalah pembaruan E-A-T. 
 ==================
-Dalam `SEO <https://karinov.co.id/jasa-seo/>`_, dikenal ada EAT yang merupakan singkatan dari Expertise, Authoritativeness, dan Trsutworthiness. Pada dasarnya EAT inilah yangmenunjukkan kepada Google bahwa website Anda merupakan sumber yang terpercaya yang dikelola oleh orang-orang yang sudah ahli.
+`jasa pembuatan aplikasi android <https://hugaf.com/jasa-pembuatan-aplikasi-android-dan-ios>`_
+Google merilis pembaruan inti kedua untuk tahun 2020 selama pandemi virus korona. Sekarang rilis telah selesai, sekarang saatnya untuk analisis yang lebih rinci tentang penyesuaian yang dilakukan oleh Google. Marcus Pentzek, kepala konsultan SEO Searchmetrics, dan Niels Dahnke, kepala SEO agensi pemasaran konten Suxeedo, meninjau efek pembaruan ini di blog ini dan membagikan wawasan serta analisis mereka tentang pemenang dan pecundang Pembaruan Inti. 
 
-Dengan optimasi EAT yang baik, website Anda bisa tidak ikut-ikutan terjun bebas rangkingnya dari halaman awal Google. Pada umumnya, website yang rangkingnya tetap menaruh unsur EAT pada web mereka selain memasukkan setiap kata kunci.
-
+Pembaruan inti kedua di tahun 2020 ini tampaknya kembali terkait erat dengan E-A-T. Apakah Anda terpengaruh oleh pembaruan inti ini? Kami dapat membantu dengan SEO dan strategi konten Anda - hubungi salah satu pakar kami untuk mendiskusikan solusi bisnis Anda.
 Misalnya, mereka menyertakan sertifikasi yang pernah didapat ataupun orang-orang dibalik konten tersebut.
 
-Jadi, apa yang harus Anda lakukan?
+`jasa pembuatan website <https://hugaf.com/harga-jasa-pembuatan-website-company-profile>`_
 
-Untuk optimasi EAT, Anda bisa membuat halaman tentang kami, jadi ada informasi mengenai siapa saja yang bertanggung jawab dibalik konten yang ada di website. Anda juga bisa turut menyertakan sertifikasi dari lembaga-lembaga atau gelar.
 
-Kemudian jangan lupa sertakan pula kontak bagi website Anda mencakup nama, nomor telepon, email, hingga alamat jika Anda mau. Selain itu, pada niche yang sama, buatlah konten sebanyak-banyaknya dengan materi yang lengkap. Karena sebenarnya, semakin banyak konten itu semakin baik.
-
-Anda juga perlu terus berusaha agar mendapat `backlink <https://karinov.co.id/pbn/>`_ atau review dari website lain yang membahas niche yang sama. Dengan begitu, Anda bisa mendapatkan otoritas.
-
-Mengenal Pakar SEO Ibrahim Vatih
-==================
-Nama Ibrahim Vatih mungkin terasa tidak asing lagi terdengar. Namanya sudah aral melintang di jagad dunia internet, khususnya di Indonesia. Di usianya yang cukup muda, ia sudah bisa mendirikan pesantren bernama Sintesa dan juga sangat mahir dalam bidang SEO.
-
-Kecakapannya dalam SEO ini berhubungan dengan minat dan ketertarikannya yang sudah dimiliki sejak lama. Ibrahim Vatih mengaku bahwa ia menyukai bidang pemrograman hingga online marketing. Kesukaannya ini pun merambah ke hal lainnya dengan memperdalam website, ads, dan lingkup sejenisnya. Semua hal tersebut pun mengerucut dengan pendalaman SEO.
-
-Dengan menyukai `hal berbau SEO <https://karinov.co.id/cara-seo-youtube/>`_ membuatnya menjadi lebih mudah memahaminya. Penerapan SEO yang digunakannya bisa Anda lihat di dalam websitenya yaitu vatih.com. Disana Anda akan menemukan berbagai macam artikel yang ditulis untuk dibaca oleh jutaan pengguna daring.
-
-Jika mengunjungi beranda websitenya dan mengklik salah satu artikel, maka selanjutnya Anda akan digiring pada halaman vatih.com/bisnis/. Revorma, begitulah nama untuk lanjutan dari halaman utama tadi.
-
-Bagian Revorma ini merupakan sebuah kolom yang dikhususkan untuk mempelajari bisnis online serta SEO sejak tahun 2010.
-
-Artikel yang ditulis, khususnya tentang SEO, cukup mudah dicerna. Bahasanya lugas dan sederhana serta bisa dipahami oleh berbagai usia yang ingin belajar SEO.
-
-Ada segudang artikel yang Anda butuhkan untuk bahan belajar. Artikel di kategori ini digolongkan lagi dalam menu wordpress, SEO, `marketing <https://karinov.co.id/digital-marketing-optimal-di-2019/>`_, dan adsense. Anda juga bisa langsung mencarinya sesuai dengan kata kunci yang diinginkan pada kolom pencarian.
-
-Bagi yang ingin mendapatkan bahan berkonten premium, tim akan membuatkan akun secara khusus. Akun ini nantinya akan digunakan pada saat ingin login untuk membaca materi yang sudah terkunci.
-
-Konten atau Revorma premium ini memiliki materi yang berbeda dari biasanya. Modul yang diberikan sangat lengkap dan bertahap pembelajarannya. Materi dimulai dari perkenalan dasar, kata kunci, bentuk juga jenisnya, link, formula untuk memulai bisnis online dan adsense, hingga bagian yang kerap diabaikan atau dianggap sepele dalam strategi SEO.
-
-Selain itu, di website ini juga memberikan layanan jasa PBN dan jasa SEO bagi yang tidak ingin pusing `menulis artikel <https://karinov.co.id/cara-seo-artikel-blog/>`_ sejenis. Anda bisa langsung menghubungi nomor kontak yang tercantum di artikel berisi layanan jasa tersebut.
-
-Mengenal SEO Tools Terbaik: Ahrefs
+Mengenal Pakar SEO Niels Dahnke
 ==================
 
-Salah satu `tools digital terbaik <https://digital.readthedocs.io/en/latest/>`_ di tahun 2019 adalah Ahrefs. Meskipun biaya yang harus dikeluarkan tidaklah sedikit, namun sangat sebanding dengan beragam fitur yang tersedia di dalamnya. Berikut ini beberapa fitur unggulan dari tools ini, antara lain:
+Niels Dahnke adalah kepala SEO di Suxeedo, sebuah perusahaan pemasaran konten yang berbasis di Berlin, dan sering menjadi pembicara di konferensi pemasaran digital internasional. Di Suxeedo, pakar pemasaran online berpengalaman ini berfokus pada pengoptimalan mesin telusur teknis dan konsultasi strategis. Sebelumnya, dia menjabat sebagai kepala SEO, SEA, dan media sosial di grup media Madsack. Marcus Pentzeck adalah kepala konsultan SEO di Searchmetrics Digital Strategies Group. Dia memberikan saran dan bantuan pengoptimalan mesin telusur kepada pelanggan Searchmetrics. Marcus memiliki keahlian dan semangat untuk SEO internasional (termasuk China, dan banyak lagi!). Sebelum Searchmetrics, Marcus adalah kepala tim SEO di UDG United Digital Group.
 
-- Site Explorer
-Fitur ini merupakan fitur utama dari tool Ahrefs yaitu sebagai backlink checker. Untuk mengaksesnya anda hanya perlu mengunjungi link https://ahrefs.com/site-explorer, lalu masukkan domain yang ingin anda cek backlinknya. Jika sudah anda bisa menutupnya dengan klik tombol “Search”.
+E-A-T sebagai faktor penting? 
+==================
 
-- Content Explorer
-Fitur selanjutnya yang akan anda peroleh ketika menggunakan tool ini adalah content explorer. Fungsi dari fitur ini adalah untuk mencari konten yang ada pada website kemudian mengurutkan sesuai dengan daya share di sosial media.
-
-Apabila daya share semakin tinggi maka potensi untuk viralnya juga semakin tinggi. Untuk mengaksesnya bisa langsung mengetikkan link https://ahrefs.com/content-explorer dan masukkan keyword yang ingin anda cek.
-
-- Fitur Position Explorer
-Fitur ini memiliki keunggulan yaitu mampu memperlihatkan keyword yang masuk ke domain tertentu. Selain itu anda juga bisa mengetahui kisaran jumlah trafik, kompetitor hingga halaman yang paling banyak mendapatkan trafik pada bagian top page.
-
-Anda akan mengetahui keyword yang masuk ke kompetitor lengkap dengan peringkatnya. Anda juga akan melihat konten apa saja yang mampu membawa banyak trafik pada bagian top page.
-
-- Position Tracker
-Berfungsi untuk memonitor posisi ranking atau peringkat dari web maupun kompetitor anda. Untuk melakukannya, anda hanya perlu masuk ke https://ahrefs.com/dashboard/add kemudian masukkan URL  dan eword yang ingin dicek sebelumnya.
-
-- Crawl Reports
-Performa dan `struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-guide/>`_ pada website anda bisa dilihat menggunakan fitur ini. Apabila anda menemukan masalah juga bisa segera terlihat sehingga anda bisa segera memperbaikinya. Hal ini tentu saja penting dilakukan karena akan berpengaruh pada kualitas dari website anda.
-
-- Domain Comparison Tool
-Selain fitur-fitur yang sudah disebutkan di atas, anda juga akan menjumpai fitur yang bernama domain comparison tool. Anda bisa membandingkan kondisi backlink dari 5 domain dalam waktu yang bersamaan. Dengan begitu maka anda bisa mengetahui persaingan di niche anda secara sederhana dan cepat.
-
-- `Digital Marketing Organization <https://www.dmo.or.id/>`_
+Mengenai EAT (Keahlian, Otoritas dan Kepercayaan), Niels dan Marcus percaya bahwa "sinyal EAT masih menjadi pendorong utama pembaruan ini, tetapi sinyal EAT yang kuat tidak." Misalnya, dalam pembaruan sebelumnya, situs web dengan sinyal yang lebih kuat biasanya diberi prioritas. Pada gilirannya, pendiri Searchmetrics dan CIO, Marcus Tober, yakin pembaruan tersebut tidak memengaruhi EAT. Ini karena dalam pembaruan sebelumnya, situs web yang biasanya dioptimalkan untuk teknologi E-A-T termasuk di antara pemenang terbesar. Kali ini, situs yang dioptimalkan untuk teknologi EAT ternyata tidak menjadi pemenang terbesar. Ini menyatakan, "Pembaruan tampaknya memiliki cakupan yang sedikit lebih luas daripada pembaruan inti sebelumnya." Alasan lain untuk pendapatnya adalah bahwa analisis menunjukkan bahwa pembaruan ini tidak hanya berfokus pada industri rentan yang mencakup topik terkait EAT seperti keuangan atau kesehatan.
 
 - Daftar Referensi Resmi Terbaru
-- `peta indonesia <https://genetika.sith.itb.ac.id/peta-indonesia/>`_
-- `peta indonesia hd <https://kobi-id.org/peta-indonesia/>`_
-- `kata-kata bijak motivasi indonesia <https://kobi-id.org/kata-bijak-motivasi/>`_
-- `kata-kata motivasi bisnis <https://genetika.sith.itb.ac.id/kata-bijak-motivasi/>`_
-- `kata kata bijak <https://blogs.itb.ac.id/wikia/kata-kata-motivasi/>`_
-- `ebilling djp online <https://genetika.sith.itb.ac.id/ebilling-djp-online/>`_
-- `KOBI DJP Online <https://kobi-id.org/ebilling-djp-online/>`_
-- `SSE Pajak Terbaru 2020 <https://blogs.itb.ac.id/wikia/sse-pajak-terbaru/>`_
